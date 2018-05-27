@@ -1,0 +1,59 @@
+body {
+  background: #333;
+  color: #fff; }
+
+.navbar {
+  border-bottom: #3F5E86 3px solid;
+  opacity: 0.8; }
+
+#home-section {
+  background: url("../img/bg-img.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px; }
+  #home-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px; }
+  #home-section .home-inner {
+    padding-top: 150px; }
+  #home-section .bg-pink {
+    background-color: #978592; }
+  #home-section .card-form {
+    opacity: 0.8; }
+  #home-section .fa {
+    color: #3F5E86;
+    background: #fff;
+    border-radius: 3px;
+    font-size: 30px; }
+
+#explore-section .fa, #share-section .fa {
+  color: #fff;
+  background: #333;
+  padding: 4px;
+  border-radius: 3px;
+  font-size: 30px; }
+
+#create-head-section, #share-head-section {
+  background-color: #978592; }
+
+#create-section .fa {
+  color: #3F5E86;
+  background: #fff;
+  border-radius: 3px;
+  font-size: 30px; }
+
+footer .btn {
+  background-color: #978592 !important;
+  border-color: #978592 !important; }
+
+footer .btn:focus {
+  box-shadow: 0 0 0 1px #473743;
+  border-color: #978592 !important; }
+
+.modal-footer .btn-primary {
+  background-color: #978592 !important;
+  border-color: #978592 !important; }

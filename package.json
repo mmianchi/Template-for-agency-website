@@ -1,0 +1,23 @@
+{
+  "name": "Mahshid",
+  "version": "1.0.0",
+  "description": "Mahshid Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Mahshid",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "hoek": "^5.0.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.2.1"
+  }
+}
