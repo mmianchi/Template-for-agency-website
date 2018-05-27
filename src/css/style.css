@@ -24,3 +24,6 @@
 
 .fa {
   font-size: 55px; }
+
+.dark-overlay {
+  background-color: rgba(0, 0, 0, 0.6); }

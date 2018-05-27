@@ -1,4 +1,5 @@
 $icon-size: 55px;
+$dark-overlay: rgba(0,0,0,0.6);
 .navbar {
   .nav-link {
     padding-left: 25x!important;
@@ -31,4 +32,10 @@ height: 450px;
 }
 .fa {
   font-size: $icon-size;
+}
+
+.dark-overlay {
+  background-color:$dark-overlay;
+  
+
 }
