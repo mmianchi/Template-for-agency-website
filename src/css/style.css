@@ -69,7 +69,12 @@ footer#mainfooter a, span {
 #aboutus-heading {
   background: url("../img/6284.jpg");
   background-size: cover;
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  height: 200px;
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px; }
 
 .aboutus-info img {
   margin-top: -100px; }
