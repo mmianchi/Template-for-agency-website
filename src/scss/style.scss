@@ -104,3 +104,15 @@ footer#mainfooter a,span{
     padding-right: 15px;
   }
 }
+#faq {
+  .card {
+    border: #444;
+  }
+  .card-header .btn-link {
+    color: #fff;
+  }
+  .card-header , .card-body {
+    background: #333;
+  }
+
+}

@@ -82,3 +82,12 @@ footer#mainfooter a, span {
 #icon-boxes .fa-check {
   font-size: 2.16rem;
   padding-right: 15px; }
+
+#faq .card {
+  border: #444; }
+
+#faq .card-header .btn-link {
+  color: #fff; }
+
+#faq .card-header, #faq .card-body {
+  background: #333; }
