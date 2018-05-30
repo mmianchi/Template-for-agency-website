@@ -14,15 +14,15 @@ body {
   height: 450px; }
 
 .carousel-image-1 {
-  background: url("../img/6284.jpg");
+  background: url("../img/12483.jpg");
   background-size: cover; }
 
 .carousel-image-2 {
-  background: url("../img/6284.jpg");
+  background: url("../img/6723.jpg");
   background-size: cover; }
 
 .carousel-image-3 {
-  background: url("../img/6284.jpg");
+  background: url("../img/7221.jpg");
   background-size: cover; }
 
 .fa {
@@ -39,7 +39,7 @@ body {
   color: white; }
 
 .dark-overlay {
-  background-color: rgba(128, 248, 182, 0.6);
+  background-color: rgba(50, 89, 160, 0.6);
   width: 100%;
   height: 100%;
   left: 0;
