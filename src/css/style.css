@@ -31,8 +31,9 @@ body {
 #homebg {
   position: relative;
   min-height: 200px;
-  background: url("../img/6284.jpg");
+  background: url("../img/O6DXT80.jpg");
   background-attachment: fixed;
+  background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
   color: white; }
@@ -48,9 +49,10 @@ body {
 #video-play {
   position: relative;
   min-height: 200px;
-  background: url("../img/6284.jpg");
+  background: url("../img/O6DXT80.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
+  background-size: cover;
   background-position: 0 -300px;
   text-align: center;
   color: white; }
@@ -67,7 +69,17 @@ footer#mainfooter a, span {
   font-size: .8rem; }
 
 #services-heading {
-  background: url("../img/6284.jpg");
+  background: url("../img/O6DXT80.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 200px;
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px; }
+
+#contactus-heading {
+  background: url("../img/7968.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 200px;
