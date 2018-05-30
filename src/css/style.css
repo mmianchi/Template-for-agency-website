@@ -39,7 +39,7 @@ body {
   color: white; }
 
 .dark-overlay {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(128, 248, 182, 0.6);
   width: 100%;
   height: 100%;
   left: 0;
@@ -79,7 +79,7 @@ footer#mainfooter a, span {
   padding-top: 50px; }
 
 #contactus-heading {
-  background: url("../img/7968.jpg");
+  background: url("../img/O6DXT80.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 200px;
